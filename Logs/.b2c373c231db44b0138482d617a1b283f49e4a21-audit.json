@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "C:\\Users\\gokul\\Documents\\Projects\\Node Js TSX\\Logs\\.b2c373c231db44b0138482d617a1b283f49e4a21-audit.json",
+    "files": [
+        {
+            "date": 1729407868785,
+            "name": "C:\\Users\\gokul\\Documents\\Projects\\Node Js TSX\\Logs\\2024-10-20.log",
+            "hash": "a6cc13941c7e422f9848b9098f34c2b64984f24cf57a41aab34a9894f362825e"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -62,6 +62,8 @@ export const updateUserSQL = async (
     const values = querugenerater.values;
 
     await connection.query(query, values);
+
+    return values;
   } catch (error) {
     console.error("Error in DB:", error);
     throw error;
